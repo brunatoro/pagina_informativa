@@ -6,10 +6,14 @@ Essa página foi criada para estudar as propriedades do HTML e CSS a partir de v
 
 ---> Foram utilizados TAGS de:
 -> Imagem
+
 -> Títulos (h1 e h2)
+
 -> Paragrafo
+
 -> Propriedades de table 
 
-![screen](https://user-images.githubusercontent.com/74380091/149206320-bf29d221-6c02-4721-ba1c-df18746b6545.png)
+
+![gif](https://user-images.githubusercontent.com/74380091/149206688-ec87c64c-510d-4839-bc85-efb94485529f.gif)
 
 
