@@ -10,5 +10,6 @@ Essa página foi criada para estudar as propriedades do HTML e CSS a partir de v
 -> Paragrafo
 -> Propriedades de table 
 
-<iframe src='//gifs.com/embed/pagina-informativa-16E3Vq' frameborder='0' scrolling='no' width='1376px' height='776px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![screen](https://user-images.githubusercontent.com/74380091/149206320-bf29d221-6c02-4721-ba1c-df18746b6545.png)
+
 
