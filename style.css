@@ -1,0 +1,40 @@
+body{
+    width: 95%;
+    max-width: 800px; /*definiu o bloco todo no tamanho de 800px*/
+    margin: auto; /*centraliza os elementos desde que tenha tamanhos definidos em width*/
+    background-image: url(espaço.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: #ffffff; 
+}
+
+main{
+    background: #a5656554;
+    padding: 10px 40px; /*medida da borda de cima e de baixo e dos lados*/
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo, .nomebanda, .headline{
+    margin: 0;
+    text-align: center;
+}
+
+.albuns{
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.albuns table{
+    background: #b4aaec49;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+
+
+}
+
+
